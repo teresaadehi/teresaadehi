@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Teresa!](https://teresaadehi.github.io/MyPortfolio/)
+### Hello World 👋 It's [Teresa!](https://github.com/teresaadehi/teresaadehi)
 
 <br/>
 
@@ -24,5 +24,5 @@ Hi,I'm Teresa Adehi🙌, a Data Analyst and a Finance and Technology enthusiast.
 - 🌱 What makes me stand out is my ability to adapt.
 - 💬 Ask me about anything , I would love to chat.
 - 📫 How to reach me: Any of the Social-Media Platforms
-- 📝[Portfolio](https://teresaadehi.github.io/MyPortfolio/)
+- 📝[Portfolio](https://github.com/teresaadehi/teresaadehi)
 
